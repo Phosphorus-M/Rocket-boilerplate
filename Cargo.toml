@@ -1,5 +1,5 @@
 [package]
-name = "Simple-ORM-With-Rocket"
+name = "simple_orm_with_rocket"
 version = "0.1.0"
 authors = ["Phosphorus <fernando.n.p.d.moscu@gmail.com>"]
 edition = "2018"
